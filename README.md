@@ -1,10 +1,10 @@
-# DigitGAN: Generative Adversarial Network for MNIST Digit Synthesis
+# Anime Face Generator using GANs with Reinforcement Learning
 
-DigitGAN is a simple but powerful implementation of a Generative Adversarial Network (GAN) designed to synthesize realistic images similar to those in the MNIST dataset. The project is built using Python and TensorFlow/Keras, making it easy to understand and modify.
+DigitGAN is a simple but powerful implementation of a Generative Adversarial Network (GAN) designed to synthesize realistic images similar to those in the Anime dataset. The project is built using Python and TensorFlow/Keras, making it easy to understand and modify.
 
 ## 📌 Features
 
-- Uses the MNIST dataset 
+- Uses the Anime dataset 
 - Custom generator and discriminator models
 - Adversarial training loop from scratch
 - Generates and visualizes digit images at each epoch
